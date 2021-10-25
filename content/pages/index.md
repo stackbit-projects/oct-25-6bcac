@@ -30,7 +30,7 @@ sections:
     styles:
       self:
         height: screen
-        width: narrow
+        width: wide
         margin:
           - mt-3
           - mb-3
