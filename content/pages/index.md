@@ -29,7 +29,7 @@ sections:
       caption: Image caption
     styles:
       self:
-        height: screen
+        height: auto
         width: narrow
         margin:
           - mt-3
